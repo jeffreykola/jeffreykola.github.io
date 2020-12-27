@@ -1,10 +1,11 @@
 # site settings
 title: Jeffrey Kola
-subtitle: Projects, Experiences and more...
-email: jeffreykola15@gmail.com
-description: If they don't know your dreams then they can't shoot your down
+subtitle: WELCOME
+email: /f/mgeppnog
+actual_email: jeffreykola15@gmail.com
+description: If they don't know your dreams then they can't shoot you down
 baseurl: "./" # the subpath of your site, e.g. /blog
-url: "https://jeffreykola.github.io/" # the base hostname & protocol for your site
+url:  # "https://jeffreykola.github.io/" # the base hostname & protocol for your site
 author: "Jeffrey Kola-Abodunde"
 country: United Kingdom
 
